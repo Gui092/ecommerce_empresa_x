@@ -44,3 +44,5 @@ _Checkout, **Tela de Produto**, Catálogo, Home com banner_
 [https://www.horadecodar.com.br](https://www.horadecodar.com.br)
 
 Contribuidor principal: https://github.com/gui092
+
+[![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/2/2a/Php-logo.png)](https://github.com/gui092)
