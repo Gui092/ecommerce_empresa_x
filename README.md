@@ -35,4 +35,4 @@ _Checkout, **Tela de Produto**, Catálogo, Home com banner_
 
 #### Imagem externa
 
-![Logo do PHP](https://commons.wikimedia.org/wiki/File:Php-logo.png)
+![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/2/2a/Php-logo.png)
