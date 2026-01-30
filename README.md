@@ -36,3 +36,11 @@ _Checkout, **Tela de Produto**, Catálogo, Home com banner_
 #### Imagem externa
 
 ![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/2/2a/Php-logo.png)
+
+## Links interessantes:
+
+[Google](https://www.google.com)
+
+[https://www.horadecodar.com.br][https://www.horadecodar.com.br]
+
+Contribuidor principal: https://github.com/gui092
