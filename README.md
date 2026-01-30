@@ -46,3 +46,11 @@ _Checkout, **Tela de Produto**, Catálogo, Home com banner_
 Contribuidor principal: https://github.com/gui092
 
 [![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/2/2a/Php-logo.png)](https://github.com/gui092)
+
+## Código da função soma
+
+```javascript
+function soma(a, b) {
+  return a + b;
+}
+```
